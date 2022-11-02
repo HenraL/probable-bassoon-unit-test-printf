@@ -1,0 +1,2 @@
+Here is the folder where you put your lib/my library required by your program for the compilation.
+The my library is the standard epitech library you had to code in your first year at Epitech.
